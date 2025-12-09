@@ -1,4 +1,4 @@
-# SQL Portfolio Project – Online Store Database
+# SQL Project – Online Store Database
 
 This project contains a complete SQL practice workflow using an Online Store database.  
 It includes database schema creation, sample data, and solutions to 35 SQL exercises.
